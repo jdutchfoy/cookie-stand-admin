@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cookie-stand-admin
- It's like having your own personal assistant, making managing cookie stands all in one place a piece of cake
-=======
 # README.md
 
 ## Cookie Stand Admin
@@ -73,5 +69,4 @@ If you have any questions or need further assistance, please feel free to contac
 - Email: <info@cookiestandadmin.com>
 - Website: [cookiestandadmin.com](https://cookiestandadmin.com)
 
-```
->>>>>>> 1f9f306 (add initial files and a lot of code)
+
